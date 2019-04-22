@@ -42,7 +42,7 @@ Creates a zone which when entered will teleport a player to a specified warp exi
         air <portal> <warp>:
             - Add the portal with the specified name. Will tp to the designated warp exit.
             - Designed to create portals in midair (vertical/horizontal)
-            - Fills in with cobwebs (for now
+            - Fills in with cobwebs (for now)
             - To set zone, just hit air with diamond as directed
 
         add <portal> <warp> <offset_y>:
