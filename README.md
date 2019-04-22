@@ -6,8 +6,10 @@ CaptainLock, CaptainWarp
 
 ## Configuration
 /plugins/CaptainPortal/config.yml
-    - total_portals_allowed : set the total numbers of portals allowed to be created
-    - create_read_me : if set to true, will place readme.txt in /plugins/CaptainPortal/ If you delete readme.txt it will be replaced unless you set this to false.
+
+total_portals_allowed : set the total numbers of portals allowed to be created
+
+create_read_me : if set to true, will place readme.txt in /plugins/CaptainPortal/ If you delete readme.txt it will be replaced unless you set this to false.
 
 ## What it does
 Creates a zone which when entered will teleport a player to a specified warp exit point (if they have permission to access it)
